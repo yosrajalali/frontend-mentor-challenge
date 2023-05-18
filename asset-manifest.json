@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/frontend-mentor-challenge/static/css/main.f7a682fc.css",
+    "main.js": "/frontend-mentor-challenge/static/js/main.31cffcea.js",
+    "static/media/illustration-thank-you.svg": "/frontend-mentor-challenge/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/frontend-mentor-challenge/index.html",
+    "main.f7a682fc.css.map": "/frontend-mentor-challenge/static/css/main.f7a682fc.css.map",
+    "main.31cffcea.js.map": "/frontend-mentor-challenge/static/js/main.31cffcea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7a682fc.css",
+    "static/js/main.31cffcea.js"
+  ]
+}
